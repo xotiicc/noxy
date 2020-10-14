@@ -1,0 +1,13 @@
+{
+    "token": "NzY1NTA5MzM5MzI2NDQ3NjI4.X4V2IA.i6Se_EI3YDMBATYMrDMcRcK8Xzg",
+    "prefix": "$",
+    "greeting": {
+        "channel": "762340900449157190",
+        "role": "758420646505480246"
+    },
+    "serverStats": {
+        "humans": "766032299539693568",
+        "bots": "766032316816293899",
+        "total": "766032332057608222"
+    }
+}
